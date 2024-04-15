@@ -23,7 +23,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Testando pela primeira vez uma IA ;)
 
 ## 📒 Descrição
-Um curto vídeo criado por IA 
+Este projeto é um curto vídeo gerado pelo D-ID para criar um avatar virtual e voz sintetizada através de um texto inserido 
 
 ## 🤖 Tecnologias Utilizadas
 D-ID
