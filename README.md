@@ -23,7 +23,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Testando pela primeira vez uma IA ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Um curto vídeo criado por IA 
 
 ## 🤖 Tecnologias Utilizadas
 D-ID
